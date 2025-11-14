@@ -1,0 +1,151 @@
+product_id,name,category,price,stock
+1,Classic Camera,Jewelry,23036.69,224
+2,Prime Perfume,Beauty,17522.37,482
+3,Classic Gaming Mouse,Automotive,12394.5,41
+4,Essential T-Shirt,Toys,18388.89,309
+5,Classic Headphones,Clothing,5799.22,345
+6,Essential Water Bottle,Electronics,24988.35,344
+7,Classic Water Bottle,Electronics,19100.41,89
+8,Lite Gaming Mouse,Grocery,22909.21,92
+9,Essential Cookbook,Grocery,24228.48,240
+10,Pro Cookbook,Sports,8093.35,53
+11,Eco Smartwatch,Toys,17371.47,147
+12,Max Sunglasses,Electronics,11424.17,161
+13,Classic Smartwatch,Clothing,24256.6,206
+14,Plus Headphones,Automotive,11602.21,27
+15,Smart Gaming Mouse,Sports,15602.58,255
+16,Lite T-Shirt,Books,6748.7,67
+17,Classic Perfume,Grocery,3122.51,498
+18,Essential Olive Oil,Home & Kitchen,7836.68,7
+19,Plus Cookbook,Clothing,5694.05,430
+20,Prime Perfume,Clothing,16226.97,78
+21,Lite Necklace,Automotive,17663.75,212
+22,Lite Backpack,Books,11472.98,74
+23,Max Action Figure,Jewelry,12754.2,450
+24,Eco Blender,Beauty,19338.61,437
+25,Max Smartwatch,Automotive,6751.6,1
+26,Classic Necklace,Jewelry,14539.09,337
+27,Lite Lipstick,Grocery,13509.66,176
+28,Pro Sunglasses,Automotive,9491.53,477
+29,Pro Action Figure,Books,14336.76,119
+30,Max T-Shirt,Sports,18642.16,361
+31,Max Coffee Maker,Home & Kitchen,12432.68,18
+32,Eco Gaming Mouse,Jewelry,8365.67,51
+33,Lite Novel,Automotive,22769.0,7
+34,Eco Cookbook,Home & Kitchen,1962.22,400
+35,Classic Smartwatch,Jewelry,17347.34,332
+36,Prime Smartwatch,Automotive,9561.23,162
+37,Lite Sunglasses,Electronics,15473.74,120
+38,Classic Olive Oil,Clothing,10904.89,50
+39,Prime Perfume,Home & Kitchen,17379.63,462
+40,Ultra T-Shirt,Sports,19922.97,150
+41,Pro Sneakers,Toys,3723.69,271
+42,Max Water Bottle,Home & Kitchen,4331.59,40
+43,Essential Coffee Maker,Jewelry,17109.05,254
+44,Essential Lipstick,Books,11581.63,130
+45,Lite Car Charger,Electronics,22481.82,238
+46,Classic Sunglasses,Home & Kitchen,1938.16,483
+47,Pro Water Bottle,Beauty,16008.57,217
+48,Classic Perfume,Beauty,5059.5,196
+49,Lite Novel,Books,9594.97,183
+50,Essential Necklace,Beauty,645.3,424
+51,Max Car Charger,Electronics,14190.63,351
+52,Ultra Camera,Grocery,20836.69,462
+53,Classic Olive Oil,Jewelry,20067.11,112
+54,Smart Camera,Beauty,16975.34,369
+55,Eco Novel,Electronics,7791.43,225
+56,Ultra Water Bottle,Sports,18334.76,46
+57,Classic Smartwatch,Toys,4472.44,67
+58,Plus Sneakers,Automotive,12593.69,139
+59,Eco Car Charger,Grocery,24186.86,151
+60,Pro Novel,Grocery,24075.04,72
+61,Smart Coffee Maker,Automotive,9206.8,404
+62,Max Headphones,Beauty,13459.65,232
+63,Pro Car Charger,Jewelry,9586.53,326
+64,Pro Novel,Books,11838.77,317
+65,Plus Smartwatch,Jewelry,5611.04,32
+66,Lite Necklace,Toys,3004.23,23
+67,Ultra Necklace,Grocery,2990.4,120
+68,Plus Lipstick,Toys,11394.73,343
+69,Plus Cookbook,Jewelry,18581.5,79
+70,Max Novel,Grocery,15428.74,480
+71,Classic T-Shirt,Sports,5509.02,227
+72,Smart Sneakers,Clothing,24524.1,188
+73,Plus Sneakers,Electronics,10012.68,97
+74,Prime Perfume,Clothing,16601.94,328
+75,Essential Headphones,Electronics,19690.19,124
+76,Eco Water Bottle,Books,1807.39,391
+77,Plus Action Figure,Jewelry,5476.19,445
+78,Smart Smartwatch,Home & Kitchen,19736.23,305
+79,Ultra Car Charger,Home & Kitchen,24688.43,276
+80,Classic Yoga Mat,Clothing,16559.34,13
+81,Eco Headphones,Sports,19769.62,121
+82,Essential Smartwatch,Electronics,4437.73,26
+83,Eco Cookbook,Automotive,2928.87,32
+84,Lite Perfume,Sports,12878.63,55
+85,Lite Gaming Mouse,Books,23639.85,22
+86,Plus Necklace,Grocery,16118.18,15
+87,Ultra Backpack,Toys,10713.21,55
+88,Lite Perfume,Clothing,22490.74,164
+89,Essential Lipstick,Clothing,3241.17,319
+90,Essential Sunglasses,Sports,9583.52,305
+91,Plus Necklace,Grocery,12687.22,220
+92,Prime Novel,Automotive,18047.91,110
+93,Max Perfume,Books,10402.96,423
+94,Lite Coffee Maker,Toys,18266.35,160
+95,Max Smartwatch,Beauty,9419.1,78
+96,Lite Blender,Clothing,20810.12,47
+97,Max Novel,Sports,20312.06,284
+98,Ultra Water Bottle,Automotive,14084.92,343
+99,Prime Cookbook,Sports,21851.82,481
+100,Max T-Shirt,Beauty,15049.21,180
+101,Prime Water Bottle,Automotive,5396.2,336
+102,Lite Olive Oil,Clothing,8816.84,284
+103,Pro Novel,Beauty,14394.09,413
+104,Max Sunglasses,Jewelry,15376.97,329
+105,Plus Headphones,Jewelry,23233.2,424
+106,Classic Headphones,Home & Kitchen,6903.43,390
+107,Classic Smartwatch,Sports,251.03,445
+108,Eco Water Bottle,Toys,1831.68,379
+109,Ultra Blender,Automotive,5455.81,214
+110,Lite Smartwatch,Home & Kitchen,9313.32,369
+111,Pro Water Bottle,Jewelry,2214.43,26
+112,Eco Yoga Mat,Jewelry,1338.09,41
+113,Classic Perfume,Toys,12191.98,226
+114,Max Car Charger,Books,18897.08,58
+115,Pro Cookbook,Clothing,7151.84,347
+116,Essential Backpack,Automotive,16710.6,23
+117,Smart Coffee Maker,Jewelry,1463.07,104
+118,Classic Action Figure,Home & Kitchen,19126.61,148
+119,Pro Novel,Electronics,12483.89,220
+120,Eco Lipstick,Toys,13360.3,117
+121,Plus Sunglasses,Sports,1893.68,441
+122,Ultra Cookbook,Electronics,11546.88,39
+123,Pro Water Bottle,Toys,14376.65,363
+124,Max Necklace,Clothing,10184.3,494
+125,Pro Yoga Mat,Jewelry,11555.41,353
+126,Pro Blender,Toys,21126.66,124
+127,Max Water Bottle,Toys,13145.67,202
+128,Classic Smartwatch,Books,8392.41,86
+129,Prime Gaming Mouse,Clothing,13311.06,99
+130,Pro Sneakers,Home & Kitchen,5982.09,74
+131,Classic Action Figure,Home & Kitchen,15098.73,389
+132,Prime Yoga Mat,Grocery,11651.43,288
+133,Essential Perfume,Jewelry,16109.5,319
+134,Pro Smartwatch,Home & Kitchen,11049.09,240
+135,Lite Necklace,Beauty,14825.35,180
+136,Plus Blender,Beauty,11596.39,19
+137,Ultra Sneakers,Beauty,2009.6,442
+138,Prime Camera,Jewelry,12724.99,236
+139,Essential Sunglasses,Electronics,11297.37,414
+140,Essential Action Figure,Sports,15163.65,256
+141,Eco T-Shirt,Grocery,2676.2,460
+142,Pro Blender,Automotive,16187.56,20
+143,Smart Perfume,Grocery,13148.31,312
+144,Eco Sneakers,Sports,22955.63,198
+145,Max Smartwatch,Jewelry,1402.9,323
+146,Pro Blender,Sports,2452.2,347
+147,Max Necklace,Beauty,18119.97,336
+148,Essential Lipstick,Sports,2128.4,339
+149,Eco Sneakers,Beauty,24194.64,357
+150,Max Lipstick,Jewelry,17748.97,43
